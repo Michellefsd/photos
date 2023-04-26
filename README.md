@@ -1,12 +1,18 @@
-# Getting Started with Create React App
+ ### welcome to the documentation of photos App:
+ ### this project is buil with npx create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In the project directory,
+split your terminal: you can run:
+
+### `npm run start:server` at your right side;
+### `npm start` at the left side
+
+
+----------------------------------------------------------------------
+
 ## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
